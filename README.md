@@ -1,1 +1,1 @@
-# Quartus-Prime-Lite-installation
+# Quartus Prime Lite và những phần phềm liên quan
